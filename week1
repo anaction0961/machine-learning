@@ -1,0 +1,22 @@
+人工智慧(Artificial Intelligence)，大意就是要讓機器能夠具備人類的思考邏輯、行為模式和決策能力，
+人類從出生那刻起就開始不停止地學習和模仿，而人工智慧技術的生命週期也極為相似，
+從感知、學習、邏輯推理、統計機率、修補校正甚至是做出行為動作等等，從人類的習性去模仿，
+進而發展出類似於人類的初階智慧
+
+
+機器學習是人工智慧（AI）的分支，著重於訓練電腦從資料中學習，並根據經驗改進，而不是按照明確的程式碼運行作業。在機器學習中會訓練演算法尋找大型資料集的模式和關聯性，並根據該分析做出最佳決策和預測。機器學習應用程式會隨著使用不斷改善，存取的資料越多、準確度越高。
+
+
+Supervised classifiers :Neural networks,Naive Bayes
+			Linear regression,
+			Logistic regression
+			Support vector machine (SVM)
+			K-nearest neighbor
+unsupervised classifiers :(1) clustering :1.hierarchical clustering,2. k-means 3.DBSCAN 
+			  (2) anomaly detection: 1. Local Outlier Factor 2.Isolation Forest
+			  (3) neural networks: 1. autoencoders 2. deep belief networks 3.Hebbian learning
+
+
+Supervised ML models :1.Regression model 2. Classification model
+
+Unsupervised ML modes1.Deep Generative Model
